@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Jeremi 👋
 
-<!--
-**JATnpc/JATnpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Backend dev, fullstack when I feel like it. Laravel, React, Node. Building clean UI and reliable APIs. I get things done.
 
-Here are some ideas to get you started:
+- 🚀 Currently building: [Portfolio Site](https://github.com/JATnpc/jeremi-portfolio) | [Tekken Character API](https://github.com/JATnpc/TekkenCharacterSelectionBackEnd-main)
+- 🔥 Favorite stack: React, Tailwind, Laravel, Node.js
+- 💡 Always learning: API design, performance optimization, and cool UI tricks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61dafb)
+![Laravel](https://img.shields.io/badge/-Laravel-E34F26?logo=laravel&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+
+## 📫 Contact
+Open to work or collab? DM me here or email: jeremitamayo04@gmail.com
+
+---
+
+![JATnpc's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATnpc&show_icons=true&theme=tokyonight)
