@@ -41,7 +41,7 @@
 
 ### Projects
 
-- **[Portfolio](https://jeremi-portfolio.vercel.app/)**  
+- **[Portfolio](https://jeremi-portfolio.vercel.app/)**
 - **[Frame Generator](https://acesproject.netlify.app/)**
 
 ---
@@ -58,7 +58,9 @@
   <a href="https://instagram.com/jatph04/">
     <img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=E4405F" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" /> <span>jatph</span>
+  <a href="https://discord.com/users/809710722430795826">
+    <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" />
+  </a>
 </div>
 
 ---
