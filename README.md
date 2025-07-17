@@ -9,11 +9,11 @@
 
 <div align="center">
 
-<a href="https://github.com/JATnpc/jeremi-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://jeremi-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/JATnpc/Frame-Generator">
-  <img src="https://img.shields.io/badge/Frame_Generator-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://acesproject.netlify.app/">
+  <img src="https://img.shields.io/badge/Frame_Generator-181717?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
 </div>
@@ -41,8 +41,8 @@
 
 ### Projects
 
-- **[Portfolio](https://github.com/JATnpc/jeremi-portfolio)**
-- **[Frame Generator](https://github.com/JATnpc/Frame-Generator)**
+- **[Portfolio](https://jeremi-portfolio.vercel.app/)**  
+- **[Frame Generator](https://acesproject.netlify.app/)**
 
 ---
 
