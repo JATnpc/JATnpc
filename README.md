@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61dafb">
   <img src="https://img.shields.io/badge/Laravel-181717?style=flat-square&logo=laravel&logoColor=ff2d20">
   <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js&logoColor=3C873A">
+  <img src="https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=777BB4">
+  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/Arduino-181717?style=flat-square&logo=arduino&logoColor=00979D">
+  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=00758F">
   <img src="https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwind-css&logoColor=38bdf8">
   <img src="https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite&logoColor=646cff">
@@ -36,7 +41,7 @@
 
 ### Projects
 
-- **[Portfolio](https://github.com/JATnpc/jeremi-portfolio)**  
+- **[Portfolio](https://github.com/JATnpc/jeremi-portfolio)**
 - **[Frame Generator](https://github.com/JATnpc/Frame-Generator)**
 
 ---
@@ -47,14 +52,15 @@
   <a href="mailto:jeremitamayo04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jeremi-tamayo-663750199">
+  <a href="https://www.linkedin.com/in/jeremi-tamayo-663750199/">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" />
+  <a href="https://instagram.com/jatph04/">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=E4405F" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" /> <span>jatph</span>
 </div>
 
 ---
 
-I’m open to any work. Always building, always learning.  
+I’m open to any work. Always building, always learning.
