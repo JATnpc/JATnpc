@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Jeremi 👋</h1>
 
 <p align="center">
-  Full stack developer — ull stack developer. I build, I debug, I learn.<br>
+  Full stack developer — Full stack developer. I build, I debug, I learn.<br>
   I care about details and making sure things work. Open to new work and new ideas.<br>
   <sub>Philippines</sub>
 </p>
