@@ -1,21 +1,60 @@
-# Hey, I'm Jeremi 👋
+<h1 align="center">Hey, I'm Jeremi 👋</h1>
 
-> Backend dev, fullstack when I feel like it. Laravel, React, Node. Building clean UI and reliable APIs. I get things done.
-
-- 🚀 Currently building: [Portfolio Site](https://github.com/JATnpc/jeremi-portfolio) | [Tekken Character API](https://github.com/JATnpc/TekkenCharacterSelectionBackEnd-main)
-- 🔥 Favorite stack: React, Tailwind, Laravel, Node.js
-- 💡 Always learning: API design, performance optimization, and cool UI tricks
-
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61dafb)
-![Laravel](https://img.shields.io/badge/-Laravel-E34F26?logo=laravel&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
-
-## 📫 Contact
-Open to work or collab? DM me here or email: jeremitamayo04@gmail.com
+<p align="center">
+  <b>Full stack developer. I build web apps and pay attention to details.</b><br>
+  <sub>Philippines</sub>
+</p>
 
 ---
 
-![JATnpc's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATnpc&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<a href="https://github.com/JATnpc/jeremi-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/JATnpc/Frame-Generator">
+  <img src="https://img.shields.io/badge/Frame_Generator-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61dafb">
+  <img src="https://img.shields.io/badge/Laravel-181717?style=flat-square&logo=laravel&logoColor=ff2d20">
+  <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js&logoColor=3C873A">
+  <img src="https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=00758F">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwind-css&logoColor=38bdf8">
+  <img src="https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite&logoColor=646cff">
+</div>
+
+---
+
+### Projects
+
+- **[Portfolio](https://github.com/JATnpc/jeremi-portfolio)**  
+- **[Frame Generator](https://github.com/JATnpc/Frame-Generator)**
+
+---
+
+### Contact
+
+<div align="center">
+  <a href="mailto:jeremitamayo04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeremi-tamayo-663750199">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" />
+  </a>
+</div>
+
+---
+
+I’m open to any work. Always building, always learning.  
