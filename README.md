@@ -1,73 +1,73 @@
-<!-- Banner or headline, super clean -->
 <h1 align="center">Hey, I'm Jeremi 👋</h1>
-
 <p align="center">
-  Full stack developer — Full stack developer. I build, I debug, I learn.<br>
-  I care about details and making sure things work. Open to new work and new ideas.<br>
-  <sub>Philippines</sub>
+  Backend-leaning Full Stack Developer | IoT Hobbyist | Detail-Driven Builder
 </p>
 
 <p align="center">
-  <a href="https://jeremi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://olpcc-frame-generator.vercel.app/">
-    <img src="https://img.shields.io/badge/Frame_Generator-181717?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
+  🚀 I build reliable backend systems, clean frontends, and IoT prototypes.<br>
+  🎯 Passionate about scalable APIs, dark-mode UI, and problem-solving.<br>
+  🌏 Open to remote or relocation — let's build something great.
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Laravel-181717?style=flat-square&logo=laravel&logoColor=ff2d20" />
-  <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js&logoColor=3C873A" />
-  <img src="https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Arduino-181717?style=flat-square&logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=00758F" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwind-css&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite&logoColor=646cff" />
+## 🛠 Tech Stack
+**Languages:** JavaScript, PHP, Python, C/C++  
+**Frameworks:** React, Laravel, Node.js, Vite, Tailwind CSS  
+**Databases:** MySQL, SQLite  
+**IoT / Embedded:** Arduino, Raspberry Pi  
+**Tools:** Git, Vercel, Docker (basic), Figma
+
+<p>
+  <img src="https://img.shields.io/badge/React-black?logo=react" />
+  <img src="https://img.shields.io/badge/Laravel-black?logo=laravel" />
+  <img src="https://img.shields.io/badge/Node.js-black?logo=node.js" />
+  <img src="https://img.shields.io/badge/PHP-black?logo=php" />
+  <img src="https://img.shields.io/badge/Python-black?logo=python" />
+  <img src="https://img.shields.io/badge/MySQL-black?logo=mysql" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Vite-black?logo=vite" />
+  <img src="https://img.shields.io/badge/Arduino-black?logo=arduino" />
 </p>
 
 ---
 
-<p align="center">• • •</p>
+## 🚀 Featured Projects
+- **[Secure Parcel Delivery System](#)** — IoT locker with dual OTP for COD.
+- **[Flood & Water Quality Alert](#)** — SMS alert system for public safety.
+- **[OLPCC Frame Generator](https://olpcc-frame-generator.vercel.app/)** — Clean UI tool for event photo frames.
+- **[Portfolio Website](https://jeremi-portfolio.vercel.app/)** — Minimal, recruiter-friendly, coder-themed portfolio.
 
 ---
 
-<div align="center">
-
-<a href="mailto:jeremitamayo04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/jeremi-tamayo-663750199/">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://instagram.com/jatph04/">
-  <img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=E4405F" />
-</a>
-<a href="https://discord.com/users/809710722430795826">
-  <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" />
-</a>
-
-</div>
+## 💼 Experience
+- **Multisys (OJT)** — Software Trainee (July 1–25, 2025)  
+  → Worked on web development workflows, repo hygiene, and documentation.  
+- **Hytec Power Inc. (OJT)** — Technical Trainee (June–July 2024)  
+  → Developed professional habits and applied core computer engineering skills.
 
 ---
 
-<p align="center">
-  <i>I keep it simple and make things work. Always building, always down for something new.</i>
-</p>
+## 🎓 Education
+- **BS Computer Engineering** — Our Lady of the Pillar College – Cauayan (Expected 2026)  
+- Previous coursework in Mobile App & Web Dev — Isabela State University, STI College Cauayan  
 
 ---
 
-<details>
-<summary>GitHub Stats</summary>
-<br>
+## 💡 Fun Facts
+- 🎮 I enjoy building game-like UIs and backend logic.  
+- 🏋 Training for a V-taper physique (PPL → ULX PPL after TFCC injury recovery).  
+- ✝ Driven by faith, truth, and lifelong learning.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JATnpc&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JATnpc&theme=tokyonight" width="400"/>
 </p>
-</details>
+
+---
+
+💌 **Let's work together** → [Email me](mailto:jeremitamayo04@gmail.com)  
+🔗 [Portfolio](https://jeremi-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/jeremi-tamayo-663750199/) • [GitHub](https://github.com/JATnpc) • [Instagram](https://instagram.com/jatph04) • [Discord](https://discord.com/users/809710722430795826)
