@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Jeremi 👋</h1>
 <p align="center">
-  Backend-Leaning Full Stack Developer | Computer Engineering Graduate
+Computer Engineering Graduate
 </p>
 
 <p align="center">
