@@ -58,14 +58,6 @@ Computer Engineering Graduate
 
 ---
 
-## ⚡ Beyond the Keyboard
-When I'm away from my IDE, you can usually find me:
-- 🚗 Researching and working on modifications for my Ford EcoSport.
-- 🥊 Staying active with weight training, boxing, and taekwondo.
-- 🎧 Tweaking my setup for the best audio experience with high-fidelity IEMs and testing out new mechanical keyboards.
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JATnpc&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
